@@ -1,3 +1,3 @@
 var index = require("./index.js");
 
-console.log("WE HAVE " +mindex.name);
+console.log("WE HAVE " + index.name);
