@@ -11,3 +11,10 @@ if (name === "Susan") {
 }  else {
       console.log("NOT SUSAN - Expected the name to be Susan")
 }
+
+
+if (name === "Susan") {
+    console.log("The name is correct")
+}  else {
+      console.log("NOT 74 - Expected the name to be Susan")
+}
